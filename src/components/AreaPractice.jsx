@@ -1,7 +1,4 @@
 import React from 'react'
-import TopPage from './TopPage';
-import NavBar from './NavBar'
-import BottomPage from './BottomPage';
 import {AiOutlineMinus } from 'react-icons/ai';
 import {GiPistolGun} from 'react-icons/gi'
 import {GiHandcuffs} from 'react-icons/gi'

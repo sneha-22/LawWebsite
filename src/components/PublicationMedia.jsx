@@ -1,7 +1,4 @@
 import React from "react";
-import NavBar from "./NavBar";
-import TopPage from "./TopPage";
-import BottomPage from "./BottomPage";
 import { AiOutlineMinus } from "react-icons/ai";
 
 const PublicationMedia = () => {

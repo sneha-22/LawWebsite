@@ -15,7 +15,6 @@ import WhiteCollar from './components/WhiteCollar';
 import { Routes , Route } from 'react-router-dom';
 import Career from './components/Career';
 import ContactUs from './components/ContactUs';
-import Landingpage from './components/LandingPage';
 import PublicationMedia from './components/PublicationMedia';
 
 function App() {

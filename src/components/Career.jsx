@@ -1,9 +1,5 @@
 import React from 'react'
 import { AiOutlineMinus } from "react-icons/ai"
-import { IoChevronForwardSharp } from 'react-icons/io5'
-import TopPage from './TopPage';
-import NavBar from './NavBar'
-import BottomPage from './BottomPage';
 const Career = () => {
     return (
         <div>
