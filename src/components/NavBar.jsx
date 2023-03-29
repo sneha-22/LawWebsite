@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
-import Logo from '../assets/plainlogo.png'
+import Logo from '../assets/logo.png'
 import Whitelogo from '../assets/logo.png'
 
 
@@ -12,7 +12,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-80% h-20 px-4 text-black mx-10">
       <div>
-        <a href='/project1'><img src={Logo} alt="logo" className='cursor-pointer ' /></a>
+        <a href='/home'><img src={Logo} alt="logo" className='cursor-pointer ' /></a>
       </div>
 
       <ul className='hidden md:flex text-black text-xs font-medium'>

@@ -14,7 +14,7 @@ const BottomPage = () => (
                 </a>
                     <div className="max-w-xs text-left ">
                         <p className="text-m overflow-hidden text-gray-400 pb-4" style={{ textOverflow: 'ellipsis' }}>
-                            Chambers of Jayant Bhatt caters to varied clients comprising of Governmental and Non-Governmental Bodies, Multinationals, Financial Institutions and individuals in an array of matters.
+                            Chambers of Vaibhav Srivastava caters to varied clients comprising of Governmental and Non-Governmental Bodies, Multinationals, Financial Institutions and individuals in an array of matters.
                         </p>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ const BottomPage = () => (
                 <div className="mx-4 mb-8 md:mb-0 flex-1 w-full">
                     <h4 className="text-lg mb-4">Contact Us</h4>
                     <div className="inline-flex items-center font-bold  mb-4 md:px-3">
-                        <BsFillTelephoneFill className="mr-1" /> <span className="text-sm font-bold uppercase hover:scale-105 duration-200 hover:text-yellow-400 cursor-pointer"><a href='tel:+18002162020'> 011-41324533 |  +91 8447185912</a></span>
+                        <BsFillTelephoneFill className="mr-1" /> <span className="text-sm font-bold uppercase hover:scale-105 duration-200 hover:text-yellow-400 cursor-pointer"><a href='tel:+18002162020'> 9161436383</a></span>
 
                     </div>
                     <div className="inline-flex items-center font-bold  mb-4 md:px-3">
@@ -48,7 +48,7 @@ const BottomPage = () => (
                     </div>
                     <div className="inline-flex items-center font-bold mb-4 md:px-3 ">
                         <IoLocationSharp className='mr-1' />
-                        <p className='hover:scale-105 duration-200 hover:text-yellow-400 font-bold'>A71, New Friends Colony, New Delhi – 110025</p>
+                        <p className='hover:scale-105 duration-200 hover:text-yellow-400 font-bold'>LS 1/11, SRY, Sector A, Aliganj, Lucknow- 226021</p>
                     </div>
                 </div>
                 <div className="mx-4 mb-8 md:mb-0 flex-1 w-full">
@@ -57,7 +57,7 @@ const BottomPage = () => (
                         <iframe
                             title="map-iframe"
                             className="w-full h-64 mt-4"
-                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d56066.12302676169!2d77.271583!3d28.565778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3917c7b2da5%3A0x724ac47598a5d62e!2sChambers%20of%20Jayant%20Bhatt!5e0!3m2!1sen!2sus!4v1679990940074!5m2!1sen!2sus"
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3557.9665970799665!2d80.94106201504479!3d26.904555183131116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDU0JzE2LjQiTiA4MMKwNTYnMzUuNyJF!5e0!3m2!1sen!2sin!4v1680122218086!5m2!1sen!2sin"
                             width="600"
                             height="450"
                             style={{ border: 0 }}
@@ -70,13 +70,13 @@ const BottomPage = () => (
             <div className="bg-gray-800 py-4 text-center">
                 <div className="flex flex-col items-center justify-center">
                     <p className="text-white text-lg font-bold mb-2">
-                        All Rights Reserved © {new Date().getFullYear()} Chambers of Jayant Bhatt
+                        All Rights Reserved © {new Date().getFullYear()} Chambers of Vaibhav Srivastava
                     </p>
                     <div className="flex flex-row items-center justify-center">
                         <p className="text-gray-400 text-sm">
                             Follow us on LinkedIn:
                         </p>
-                        <a href="https://www.linkedin.com/company/chambers-of-jayant-bhatt/" target="_blank" rel="noreferrer">
+                        <a href="https://www.linkedin.com/in/vaibhavsrivastava08" target="_blank" rel="noreferrer">
                             <FaLinkedin className="ml-2 text-gray-400 text-lg hover:text-blue-500 transition-colors duration-200" />
                         </a>
                     </div>

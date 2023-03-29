@@ -14,7 +14,7 @@ const TopPage = () => {
           <a href="hello@jayantbhatt.in" className='hover:scale-105 duration-200 hover:text-yellow-400 font-bold '>@ hello@jayantbhatt.in</a>
         </div>
         <div className="inline-flex items-center font-bold md:mb-0 mb-4 md:px-3">
-          <BsFillTelephoneFill className="mr-1" /> <span className="text-sm font-bold uppercase hover:scale-105 duration-200 hover:text-yellow-400 cursor-pointer"><a href='tel:+18002162020'> 011-41324533 |  +91 8447185912</a></span>
+          <BsFillTelephoneFill className="mr-1" /> <span className="text-sm font-bold uppercase hover:scale-105 duration-200 hover:text-yellow-400 cursor-pointer"><a href='tel:+18002162020'> 9161436383</a></span>
 
         </div>
         <div className="inline-flex items-center font-bold md:mb-0 mb-4 md:px-3">
@@ -23,7 +23,7 @@ const TopPage = () => {
         </div>
         <div className="inline-flex items-center font-bold md:mb-0 mb-4 md:px-3 ">
           <IoLocationSharp className='mr-1' />
-          <p className='hover:scale-105 duration-200 hover:text-yellow-400 font-bold'>A71, New Friends Colony, New Delhi – 110025</p>
+          <p className='hover:scale-105 duration-200 hover:text-yellow-400 font-bold'>LS 1/11, SRY, Sector A, Aliganj, Lucknow- 226021</p>
         </div>
       </div>
     </header>

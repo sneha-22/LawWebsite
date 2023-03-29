@@ -47,7 +47,7 @@ const AreaPractice = () => {
             </div>
             <div className=' flex place-content-start justify-center text-justify  text-base font-serif text px-6 pb-10 pt-4'>
             <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+            Our corporate legal services ensure dealing with highly crucial and intricate matters efficiently.
                 </p>
                 </div>
 
@@ -69,7 +69,7 @@ const AreaPractice = () => {
 
             <div className=' flex place-content-start justify-center text-justify  text-base font-serif text-black px-6 pb-10 pt-4'>
             <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+            Extensive assistance for Prosecution as well as Defence clients in all types of criminal matters.
                 </p>
                 </div>
 
@@ -88,7 +88,7 @@ const AreaPractice = () => {
             </div>
             <div className=' flex place-content-start justify-center text-justify  text-base font-serif text-black px-6 pb-10 pt-4'>
             <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+            Our team provides full-scale solutions to complex cases at all stages of progression.
                 </p>
                 </div>
         </div>
@@ -107,7 +107,7 @@ const AreaPractice = () => {
             </div>
             <div className=' flex place-content-start justify-center text-justify  text-base font-serif text-black px-6 pb-10 pt-4'>
             <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+            We offer aid and routes of protection for your usable data centering around your privacy and personal cyberspace.
                 </p>
                 </div>
         </div>
@@ -126,7 +126,7 @@ const AreaPractice = () => {
             </div>
             <div className=' flex place-content-start justify-center text-justify  text-base font-serif text-black px-6 pb-10 pt-4'>
             <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+            We make sure your fragile family relationships and matrimonial disputes are redressed congruously.
                 </p>
                 </div>
         </div>
@@ -145,7 +145,7 @@ const AreaPractice = () => {
             </div>
             <div className=' flex place-content-start justify-center text-justify  text-base font-serif text-black px-6 pb-10 pt-4'>
             <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+            We determine Medical Malpractice claims and cover all legal aspects and consequences of medical negligence and liabilities of parties.
                 </p>
                 </div>
         </div>
@@ -183,7 +183,7 @@ const AreaPractice = () => {
             </div>
             <div className=' flex text-black px-6 pb-10 pt-4'>
                 <p className='justify-center text-justify  text-base font-serif '>
-                    Our corporate services help dealing with the crucial and itricate matters efficiently.
+                We resolve all disputes vis-à-vis Procedural Civil Law and Disputes thereof. Consumer claims, damages, grievances are also taken care of.
                 </p>
                 </div>
         </div>
@@ -202,7 +202,7 @@ const AreaPractice = () => {
 </div>
 <div className=' flex place-content-start justify-center text-justify  text-base font-serif text-black px-6 pb-10 pt-4'>
 <p className='justify-center text-justify  text-base font-serif '>
-        Our corporate services help dealing with the crucial and itricate matters efficiently.
+Workers, Trade Unions or Employing Entities – we are diligent in finding a way out of the maze of this sector.
     </p>
     </div>
 </div>

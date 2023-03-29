@@ -34,7 +34,8 @@ const PublicationMedia = () => {
                     backgroundPosition: "center center",
                     backgroundAttachment: "local",
                 }}>
-                <h1 className='pt-5 pb-0'>PUblication and</h1>
+                <h1 className='pt-5 pb-0'>Publication and Media</h1>
+                <br></br>
                 <AiOutlineMinus size={150} pt-0 />
             </div>
             <div className="grid grid-cols-2 gap-4">
