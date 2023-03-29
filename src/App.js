@@ -1,23 +1,53 @@
-import logo from './logo.svg';
-import './App.css';
+import AreaPractice from './components/AreaPractice';
+import BottomPage from './components/BottomPage';
+import BusinessLaw from './components/BusinessLaw';
+import CivilDispute from './components/CivilDispute';
+import ConstitutionalLaw from './components/ConstitutionalLaw';
+import CriminalLaw from './components/CriminalLaw';
+import Home from './components/Home';
+import NavBar from './components/NavBar';
+import TopPage from './components/TopPage';
+import FamilyLaw from './components/FamilyLaw';
+import Labor from './components/Labor';
+import Medical from './components/Medical';
+import Privacy from './components/Privacy';
+import WhiteCollar from './components/WhiteCollar';
+import { Routes , Route } from 'react-router-dom';
+import Career from './components/Career';
+import ContactUs from './components/ContactUs';
+import Landingpage from './components/LandingPage';
+import PublicationMedia from './components/PublicationMedia';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <TopPage></TopPage>
+      <NavBar></NavBar>
+      <Routes>
+        
+        <Route path='/' element={<Home/>} />
+        <Route path='/home' element={<Home/>} />
+        <Route path='/areapractice' element={<AreaPractice/>} />
+        <Route path='/businesslaw' element={<BusinessLaw/>} />
+        <Route path='/civildispute' element={<CivilDispute/>} />
+        <Route path='/constitutionallaw' element={<ConstitutionalLaw/>} />
+        <Route path='/criminallaw' element={<CriminalLaw/>} />
+        <Route path='/familylaw' element={<FamilyLaw/>} />
+        <Route path='/laborlaw' element={<Labor/>} />
+        <Route path='/medicallaw' element={<Medical/>} />
+        <Route path='/privacylaw' element={<Privacy/>} />
+        <Route path='/whitecollar' element={<WhiteCollar/>} />
+        <Route path='/career' element={<Career/>} />
+        <Route path='/contactus' element={<ContactUs/>} />
+        <Route path='/publicationmedia' element={<PublicationMedia/>} />
+
+
+      </Routes>
+      <BottomPage></BottomPage>
+
+      
+      
+    
     </div>
   );
 }
