@@ -8,6 +8,7 @@ import { FaBriefcaseMedical } from 'react-icons/fa'
 import { FaHome } from 'react-icons/fa'
 import { FaBusinessTime } from 'react-icons/fa'
 import { RiTeamFill } from 'react-icons/ri'
+import ProfilePic from '../assets/profilePic.jpg'
 
 
 
@@ -16,7 +17,7 @@ function Home() {
     return (
         <div>
 
-<div className='w-100% h-fit   text-black md:px-20 px-5'>
+            <div className='w-100% h-fit   text-black md:px-20 px-5'>
                 <div className='flex flex-col justify-center w-full h-full text-sm font-light'>
                     <div className='pb-4'>
                         <h2 className='inline font-bold text-4xl border-b-4 border-yellow-600 text-yellow-500'>About Us</h2>
@@ -26,12 +27,16 @@ function Home() {
                     </div>
                     <div className='flex-row md:flex'>
                         <div className='md:w-1/5 w-1/3 mx-3'>
-                            <img
+                            {/* <img
                                 src="https://vaibhavsrivastava.netlify.app/static/media/profilePic.13b1b11457a6e4705700.jpg"
                                 alt="profilePic"
                                 className="w-full mb-4"
+                            /> */}
+                            <img
+                                src={ProfilePic}
+                                alt="profilePic"
+                                className="w-full mb-4"
                             />
-
                         </div>
                         <div className=' w-4/5'>
                             <p className='my-3 md:mx-3 mx-0'>
