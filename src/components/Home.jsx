@@ -8,7 +8,6 @@ import { FaBriefcaseMedical } from 'react-icons/fa'
 import { FaHome } from 'react-icons/fa'
 import { FaBusinessTime } from 'react-icons/fa'
 import { RiTeamFill } from 'react-icons/ri'
-import ProfilePic from '../assets/profilePic.jpg'
 
 
 
