@@ -69,7 +69,7 @@ function Home() {
             </div>
 
             <div className='w-full h-1/4 md:h-1/2'>
-                <div className='grid grid-cols-1 md:grid-cols-4 px-20 pb-48 pt-8 '>
+                <div className='grid grid-cols-1 md:grid-cols-4 md:px-20 pb-48 pt-8 '>
 
 
                     <div className='group bg-gray-800 grid grid-row-3 p-8 hover:cursor-pointer '>
